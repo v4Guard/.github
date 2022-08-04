@@ -18,6 +18,10 @@ Since the beginning of our activity we have always focused on working hand in ha
 
 We are currently in a private beta phase and only work with selected customers. If you are interested, please send us an [e-mail ✉️](mailto:hello@v4guard.io) and we will be happy to assist you.
 
-Access our [Discord Community ☁️](https://v4guard.io/discord) community to learn more and get much closer contact with the entire v4Guard 💗 team.
+Access our [Discord Community ☁️](https://v4guard.io/discord) community to learn more and get much closer contact with the entire v4Guard 💗 team
 
 Made with 🖤 in 🇪🇸
+
+<a href="https://v4guard.io/discord">
+         <img alt="v4Guard Discord" src="https://discordapp.com/api/guilds/996842633416683702/widget.png?style=shield">
+</a>
