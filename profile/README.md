@@ -1,6 +1,6 @@
 # Hello, v4Guard lands on GitHub
 ![v4Guard VPN/Proxy Protection minimalist background](https://cdn.v4guard.io/Header.png)
-That's right, a high-level solution just landed on GitHub 🚀 for better transparency and better standards in the development process. We have been doing since July 14, 2021 with more than **6 years of experience**, and we are very proud that v4Guard has become what it is today at the hands of a community of developers and communities that support the project on a daily basis.
+That's right, a high-level solution just landed on GitHub 🚀 for better transparency and better standards in the development process. We have been doing since July 16, 2021 with more than **6 years of experience**, and we are very proud that v4Guard has become what it is today at the hands of a community of developers and communities that support the project on a daily basis.
 
 ### 🍿 Monitor the health of your community in real time.
 We are focused on replacing any fraud detection solution with a smart and easy to use solution that guarantees the highest level of protection 👀. With 6 years of industry experience, v4Guard knows what is important to server owners, we have been built after listening to the frustrations of the community when dealing with the different solutions on the market ✨. 
