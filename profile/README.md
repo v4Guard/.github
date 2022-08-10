@@ -8,13 +8,13 @@ We are focused on replacing any fraud detection solution with a smart and easy t
 ### 💨 The most accurate VPN detection service in the industry.
 Using honeypots & traps, blacklist, data analytics and customer feedback loops, we are able to detect compromised connections and dangerous users to a significantly greater degree than any other anti-fraud service. v4Guard also allows for the most flexible and customizable scoring configuration to tailor the service to your audience. Never worry about false positives again, v4Guard's detection is perfectly suited to any site or application.
 
-### 🎉 Data to date *(04/08/2022)*.
+### 🎉 Data to date *(10/08/2022)*.
 Since the beginning of our activity we have always focused on working hand in hand with customers so that they can have a safer user experience. We have always prioritized the contact since the tool was created by a community and for a community unlike other competitors.
 
- - 345,000 Ips identified. 📈
+ - 348,000 IPs identified. 📈
  - 265 VPN services detected. 🛡️
- - 180,000 Unique users. 🔔
- - 1000 average active users per day. 📊
+ - 300,000 Unique users. 🔔
+ - 4,200 average active users per day. 📊
 
 We are currently in a private beta phase and only work with selected customers. If you are interested, please send us an [e-mail ✉️](mailto:hello@v4guard.io) and we will be happy to assist you.
 
