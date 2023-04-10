@@ -11,10 +11,8 @@ Using honeypots & traps, blacklist, data analytics and customer feedback loops, 
 ### 🎉 Data to date *(22/12/2022)*.
 Since the beginning of our activity we have always focused on working hand in hand with customers so that they can have a safer user experience. We have always prioritized the contact since the tool was created by a community and for a community unlike other competitors.
 
- - 350,000 IPs identified. 📈
- - 265 VPN services detected. 🛡️
- - 2,095,000 Unique users. 🔔
- - 12,300 average active users per day. 📊
+ - +6M Unique Users. 🔔
+ - +13K average active users per day. 📊
 
 We are currently in a private beta phase and only work with selected customers. If you are interested, please send us an [e-mail ✉️](mailto:hello@v4guard.io) and we will be happy to assist you.
 
