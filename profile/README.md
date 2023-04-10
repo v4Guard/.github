@@ -1,5 +1,4 @@
 # Hello, v4Guard lands on GitHub
-![v4Guard VPN/Proxy Protection minimalist background](https://cdn.v4guard.io/Header.png)
 That's right, a high-level solution just landed on GitHub 🚀 for better transparency and better standards in the development process. We have been doing since July 16, 2021 with more than **6 years of experience**, and we are very proud that v4Guard has become what it is today at the hands of a community of developers and communities that support the project on a daily basis.
 
 ### 🍿 Monitor the health of your community in real time.
@@ -14,11 +13,11 @@ Since the beginning of our activity we have always focused on working hand in ha
  - +6M Unique Users. 🔔
  - +13K average active users per day. 📊
 
-We are currently in a private beta phase and only work with selected customers. If you are interested, please send us an [e-mail ✉️](mailto:hello@v4guard.io) and we will be happy to assist you.
+We're currently a private service and we only allow pre-approved customers to acquire v4Guard. If you are interested, please send us an [e-mail ✉️](mailto:hello@v4guard.io) or join our [Discord](https://v4guard.io/discord) and we will be happy to assist you.
 
 Access our [Discord Community ☁️](https://v4guard.io/discord) community to learn more and get much closer contact with the entire v4Guard 💗 team
 
-Made with 🖤 in 🇪🇸
+Made with 💜 in 🇪🇸
 
 <a href="https://v4guard.io/discord">
  <img alt="v4Guard Discord" src="https://discordapp.com/api/guilds/996842633416683702/widget.png?style=shield">
