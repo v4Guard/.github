@@ -7,12 +7,6 @@ We are focused on replacing any fraud detection solution with a smart and easy t
 ### 💨 The most accurate VPN detection service in the industry.
 Using honeypots & traps, blacklist, data analytics and customer feedback loops, we are able to detect compromised connections and dangerous users to a significantly greater degree than any other anti-fraud service. v4Guard also allows for the most flexible and customizable scoring configuration to tailor the service to your audience. Never worry about false positives again, v4Guard's detection is perfectly suited to any site or application.
 
-### 🎉 Data to date *(25/05/2023)*.
-Since the beginning of our activity we have always focused on working hand in hand with customers so that they can have a safer user experience. We have always prioritized the contact since the tool was created by a community and for a community unlike other competitors.
-
- - +7M Unique Users. 🔔
- - +15K average active users per day. 📊
-
 We're currently a private service and we only allow pre-approved customers to acquire v4Guard. If you are interested, please send us an [e-mail ✉️](mailto:hello@v4guard.io) or join our [Discord](https://v4guard.io/discord) and we will be happy to assist you.
 
 Access our [Discord Community ☁️](https://v4guard.io/discord) community to learn more and get much closer contact with the entire v4Guard 💗 team
