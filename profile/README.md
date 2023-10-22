@@ -14,5 +14,5 @@ Access our [Discord Community ☁️](https://v4guard.io/discord) community to l
 Made with 💜 in 🇪🇸
 
 <a href="https://v4guard.io/discord">
- <img alt="v4Guard Discord" src="https://discordapp.com/api/guilds/996842633416683702/widget.png?style=shield">
+ <img alt="v4Guard Discord" src="https://discordapp.com/api/guilds/996842633416683702/widget.png">
 </a>
